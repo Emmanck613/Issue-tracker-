@@ -7,3 +7,6 @@ Next.js
 Prisma
 Radix-ui themes
 Tailwind
+Typescript
+Reacts
+Mysql
