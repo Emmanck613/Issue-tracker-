@@ -10,3 +10,5 @@ Tailwind
 Typescript
 Reacts
 Mysql
+Zod for data validation
+React form hook for input validation and control
